@@ -1,19 +1,25 @@
-# Two_Sum
+## Blind 75 LeetCode Problems
 
-Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.  You may assume that each input would have exactly one solution, and you may not use the same element twice.
+**Sharpen your coding skills with solutions to the popular Blind 75 LeetCode challenge!**
 
-Example 1:
+### Overview
 
-Input: nums = [2,7,11,15], target = 9
-Output: [0,1]
-Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
+This repository provides solutions to the well-known "Blind 75" list of LeetCode problems. This curated list focuses on frequently encountered interview questions, making it an ideal resource for honing your data structures and algorithms skills for technical interviews.
 
-Example 2:
+### Structure
 
-Input: nums = [3,2,4], target = 6
-Output: [1,2]
+The repository is organized by problem category for easy navigation:
 
-Example 3:
+* **array:** Solutions for problems using arrays.
+* **binary:** Problems involving binary search, binary trees, and binary heaps.
+* **dp:** Dynamic programming solutions.
+* **graph:** Solutions for graph-related problems.
+* **interval:** Problems dealing with intervals.
+* **linked_list:** Solutions for linked list challenges.
+* **matrix:** Solutions for problems involving matrices.
+* **string:** Solutions for string manipulation tasks.
+* **heap:** Problems utilizing heaps.
 
-Input: nums = [3,3], target = 6
-Output: [0,1]
+### Getting Started
+
+**Fork the repository**
